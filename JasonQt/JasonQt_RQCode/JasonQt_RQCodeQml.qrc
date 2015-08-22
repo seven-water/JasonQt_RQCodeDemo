@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>JasonQt_RQCode.qml</file>
+    </qresource>
+</RCC>

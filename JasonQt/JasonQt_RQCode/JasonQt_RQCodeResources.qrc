@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/JasonQt_RQCodeResources">
+        <file>JasonQt_RQCodeResources/LightNeedle.png</file>
+        <file>JasonQt_RQCodeResources/Frame.png</file>
+    </qresource>
+</RCC>
